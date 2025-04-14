@@ -17,7 +17,7 @@ function Header() {
                 </div>
                 <nav className="flex items-center gap-6 text-sm font-light">
                     {navbar.map((item, index) => (
-                        item.name !== Contact ?
+                        item.name !== "Contact" ?
                             <Link key={index} to={item.path} className="hover:text-blue-400 transition">
                                 {item.name.toUpperCase()}
                             </Link> :
