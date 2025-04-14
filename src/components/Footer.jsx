@@ -7,7 +7,7 @@ function Footer() {
 
         <div className="grid grid-cols-1 md:grid-cols-4 gap-10">
           <div>
-            <h2 className="text-2xl font-bold mb-4 tracking-wider">AAR<span className="text-[#F9A142]">O</span>NN</h2>
+            <h2 className="text-2xl font-bold mb-4 tracking-wider">SM<span className="text-[#F9A142]">I</span>T</h2>
             <p className="text-sm text-[#C4C4C4] leading-relaxed">
               A portfolio that blends code and creativity. Showcasing clean UI, meaningful UX, and real-world projects.
             </p>
@@ -46,7 +46,7 @@ function Footer() {
         </div>
 
         <div className="mt-10 text-center text-sm text-white/40">
-          © {new Date().getFullYear()} AARONN. All rights reserved.
+          © {new Date().getFullYear()} SMIT. All rights reserved.
         </div>
       </div>
     </footer>

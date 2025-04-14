@@ -13,7 +13,7 @@ function Header() {
         <header className="w-full bg-[#030304]/50 border-t-2 border-blue-500">
             <div className="max-w-[1140px] h-[47px] mx-auto flex items-center justify-between px-4 text-white">
                 <div className="text-xl font-bold tracking-wider">
-                    AAR<span className="text-blue-500">O</span>NN
+                    SM<span className="text-blue-500">I</span>T
                 </div>
                 <nav className="flex items-center gap-6 text-sm font-light">
                     {navbar.map((item, index) => (
