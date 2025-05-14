@@ -48,13 +48,13 @@ const Home = () => {
         <h1 className="text-3xl sm:text-4xl md:text-5xl font-semibold leading-snug">
           Performance-Optimized Websites
         </h1>
-        <button className="bg-orange-500 px-6 py-2 mt-6 rounded-full hover:bg-orange-600 transition">
+        <button className="bg-orange-500 px-6 py-2 mt-6 rounded-full hover:bg-orange-600 transition" href="tel:+919726045883">
           Contact Me
         </button>
       </section>
 
       {/* About Section */}
-      <section className="py-16 px-4 md:px-20 flex flex-col-reverse md:flex-row items-center gap-10">
+      {/* <section className="py-16 px-4 md:px-20 flex flex-col-reverse md:flex-row items-center gap-10">
         <div className="text-center md:text-left">
           <h2 className="text-2xl sm:text-3xl font-semibold mb-4">
             Let’s get know about me closer
@@ -68,7 +68,7 @@ const Home = () => {
           alt="profile"
           className="w-60 h-60 md:w-64 md:h-64 rounded-xl object-cover"
         />
-      </section>
+      </section> */}
 
       {/* Projects Section */}
       <section className="px-4 md:px-20 py-16">
