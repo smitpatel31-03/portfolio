@@ -46,7 +46,7 @@ const Home = () => {
       {/* Hero Section */}
       <section className="min-h-[90vh] flex flex-col justify-center items-center text-center px-4 py-20">
         <h1 className="text-3xl sm:text-4xl md:text-5xl font-semibold leading-snug">
-          Adaptive Logo Design <br /> for Your Brand
+          Performance-Optimized Websites
         </h1>
         <button className="bg-orange-500 px-6 py-2 mt-6 rounded-full hover:bg-orange-600 transition">
           Contact Me
