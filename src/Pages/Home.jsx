@@ -54,7 +54,7 @@ const Home = () => {
       </section>
 
       {/* About Section */}
-      {/* <section className="py-16 px-4 md:px-20 flex flex-col-reverse md:flex-row items-center gap-10">
+      <section className="py-16 px-4 md:px-20 flex flex-col-reverse md:flex-row items-center gap-10">
         <div className="text-center md:text-left">
           <h2 className="text-2xl sm:text-3xl font-semibold mb-4">
             Let’s get know about me closer
@@ -68,7 +68,7 @@ const Home = () => {
           alt="profile"
           className="w-60 h-60 md:w-64 md:h-64 rounded-xl object-cover"
         />
-      </section> */}
+      </section>
 
       {/* Projects Section */}
       <section className="px-4 md:px-20 py-16">
